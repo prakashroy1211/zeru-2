@@ -4,7 +4,7 @@
 
 This project is developed as part of an assignment for wallet risk scoring. Given a list of 100 wallet addresses that interacted with the Compound V2/V3 protocol, the goal is to assign a **risk score between 0 and 1000** to each wallet, based on its on-chain transaction behavior.
 
-Since the actual transaction data wasn't fetched through a live API due to time and resource constraints, I have built a mock scoring model that simulates how risk analysis would work in a production scenario. The dataset (`wallets.csv`) is available in this repository.
+Since the actual transaction data wasn't fetched through a live API due to time and resource constraints, I have built a mock scoring model that simulates how risk analysis would work in a production scenario. The dataset (`wallet_scores.csv`) is available in this repository.
 
 ---
 
